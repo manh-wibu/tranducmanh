@@ -3,6 +3,6 @@ public class Divide {
         if (b == 0) {
             throw new IllegalArgumentException("Division by zero");
         }
-        return a / b;
+        return a / b ; 
     }
 }
